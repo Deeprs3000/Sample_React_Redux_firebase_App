@@ -1,0 +1,1 @@
+export { UserView as default } from "./user-view";
